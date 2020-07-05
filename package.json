@@ -1,0 +1,18 @@
+{
+  "name": "crmgraphqlcurso",
+  "version": "1.0.0",
+  "description": "Curso de GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Miguel Ángel Torres",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
