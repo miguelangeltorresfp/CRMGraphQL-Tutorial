@@ -10,7 +10,9 @@
   "author": "Miguel Ángel Torres",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.15.1"
+    "apollo-server": "^2.15.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.21"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
